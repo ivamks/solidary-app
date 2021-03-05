@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "735514928342",
+    "project_id": "appsolidario-1d4c4",
+    "storage_bucket": "appsolidario-1d4c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735514928342:android:673493caf8af21556fd577",
+        "android_client_info": {
+          "package_name": "br.com.henriktech.appsolidario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735514928342-31jpuopj9nqk9meo2rak9ltkm7a8gp1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTucaky8oCayZdciHB5g0bx7DVxGTXU0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735514928342-31jpuopj9nqk9meo2rak9ltkm7a8gp1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
